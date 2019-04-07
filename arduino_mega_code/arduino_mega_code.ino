@@ -4,7 +4,7 @@
 #include <RFID.h>
 #include <SPI.h>
 
-Servo doorservo;    // create servo object to control a servo 
+Servo doorservo;    // create servo object to control a servo motor 
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
 
 int inputPin = 6;               // choose the input pin (for PIR sensor)
