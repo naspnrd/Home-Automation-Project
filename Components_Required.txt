@@ -1,0 +1,46 @@
+
+Components Required
+
+1. Arduino Yun
+
+2. Arduino Mega 2560 and  Genuino Mega 2560
+
+3. Servo Motor
+
+4. LCD 16x2
+
+5. Numeric keypad
+
+6. Buzzer
+
+7. DHT11 Sensor
+
+8. LEDs
+
+9. Fan Module
+
+10. PushButton
+
+11. Flame Sensor
+
+12. logitech c170 hd webcam
+
+13. Relay(generic)
+
+14. bulb
+
+15. Breadboard
+
+16. Jumper wires
+
+17. SD Card
+
+18. HC-05 Bluetooth Module
+
+19. RFID reader
+
+20. BLYNK app
+
+21. Temboo 
+
+22. ARduino IDE
